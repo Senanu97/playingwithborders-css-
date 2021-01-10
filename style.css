@@ -9,17 +9,27 @@
 }
 
 img{
+    padding: 100px;
     height: 450px;
     width: 400px;
     border-radius: 500px;
-    border-style: double;
 }
 
 .border{
-    border: solid 4px pink;
+    border: solid 4px aquamarine;
     border-bottom-left-radius: 12px;
     border-top-right-radius: 12px;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
     width: max-content;
+}
+
+.center{
+    text-align: center;
+    background-color:peru;
+    border: ridge 13px;
+    border-radius: 20px;
+    width: max-content;
+    color: white;
+    padding: 12px;
 }

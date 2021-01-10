@@ -1,0 +1,25 @@
+.grey-element{
+    background-color: blueviolet;
+    
+}
+
+.pinkman{
+    background-color: burlywood;
+    
+}
+
+img{
+    height: 450px;
+    width: 400px;
+    border-radius: 500px;
+    border-style: double;
+}
+
+.border{
+    border: solid 4px pink;
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    width: max-content;
+}
